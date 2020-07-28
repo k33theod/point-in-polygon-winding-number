@@ -1,0 +1,50 @@
+*
+{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    /* margin:0; */
+	  /* padding:0; */
+}
+/* font */
+body
+{	
+	width:90%;
+  margin:auto;
+  position: relative;
+}
+
+
+#mapid { 
+  border:10px solid #999;
+  /* border-bottom:none; */
+  width:100%;
+  /* margin: auto; */
+  height: 800px; 
+  cursor: crosshair;
+}
+
+
+button
+{
+  margin:20px;
+  padding: 10px 30px;
+  text-align: center;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover
+{
+  color: seagreen;
+}
+
+h1
+{
+  text-align: center;
+}
+a
+{
+  text-decoration: none;
+}
+
